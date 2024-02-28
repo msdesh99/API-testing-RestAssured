@@ -1,0 +1,216 @@
+[INFO ] 2024-02-27 14:34:21.181 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 14:36:10.460 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 14:49:43.952 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 15:18:57.221 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 15:19:49.507 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 15:20:32.106 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 15:23:02.448 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 17:06:39.050 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 17:06:39.064 [main] LoggerLoad - .\src\test\resources\testData\userPostData.xslx (The system cannot find the file specified)
+[INFO ] 2024-02-27 17:07:39.005 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 17:07:39.016 [main] LoggerLoad - .\src\test\resources\testData\userPostData.xslx (The system cannot find the file specified)
+[INFO ] 2024-02-27 17:13:09.577 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 17:13:09.588 [main] LoggerLoad - .\src\test\resources\testData\UserPostData.xslx (The system cannot find the file specified)
+[INFO ] 2024-02-27 17:13:47.304 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 17:13:47.955 [main] LoggerLoad - Cannot invoke "org.apache.poi.xssf.usermodel.XSSFSheet.getLastRowNum()" because "com.numpyninja.apibootcamp.api.utils.XLUtility.sheet" is null
+[INFO ] 2024-02-27 17:15:29.737 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 17:15:30.316 [main] LoggerLoad - Cannot invoke "org.apache.poi.xssf.usermodel.XSSFCell.getStringCellValue()" because the return value of "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" is null
+[INFO ] 2024-02-27 17:16:54.628 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 17:16:55.453 [main] LoggerLoad - Cannot invoke "org.apache.poi.xssf.usermodel.XSSFCell.getStringCellValue()" because the return value of "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" is null
+[INFO ] 2024-02-27 17:18:24.436 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 17:18:26.683 [main] LoggerLoad - .\src\test\resources\testData\userPostData.xslx (The system cannot find the file specified)
+[INFO ] 2024-02-27 17:22:59.145 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 17:22:59.905 [main] LoggerLoad - Cannot invoke "io.restassured.response.Response.asString()" because "this.response" is null
+[INFO ] 2024-02-27 17:27:04.174 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 17:27:04.901 [main] LoggerLoad - Create Patient Request with  Request Body send
+[INFO ] 2024-02-27 17:28:09.901 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 17:28:10.632 [main] LoggerLoad - Create Patient Request with  Request Body send
+[INFO ] 2024-02-27 17:47:48.935 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 17:47:50.032 [main] LoggerLoad - Create Patient Request with  Request Body send
+[INFO ] 2024-02-27 17:49:07.224 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 17:49:08.120 [main] LoggerLoad - Create Patient Request with  Request Body send
+[INFO ] 2024-02-27 17:52:51.057 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 17:52:51.804 [main] LoggerLoad - Cannot get a STRING value from a NUMERIC cell
+[INFO ] 2024-02-27 17:59:02.854 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 17:59:03.733 [main] LoggerLoad - Create Patient Request with  Request Body send
+[INFO ] 2024-02-27 18:06:50.544 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 18:06:51.464 [main] LoggerLoad - Create Patient Request with  Request Body send
+[INFO ] 2024-02-27 18:07:30.326 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 18:07:31.235 [main] LoggerLoad - Create Patient Request with  Request Body send
+[INFO ] 2024-02-27 18:09:33.479 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 18:09:34.358 [main] LoggerLoad - Create Patient Request with  Request Body send
+[INFO ] 2024-02-27 18:10:13.794 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 18:10:14.672 [main] LoggerLoad - Create Patient Request with  Request Body send
+[INFO ] 2024-02-27 18:11:03.628 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 18:11:05.992 [main] LoggerLoad - .\src\test\resources\testData\userPostData.xslx (The system cannot find the file specified)
+[INFO ] 2024-02-27 18:12:27.341 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 18:12:29.623 [main] LoggerLoad - .\src\test\resources\testData\userPostData.xslx (The system cannot find the file specified)
+[INFO ] 2024-02-27 18:15:19.232 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 18:15:21.611 [main] LoggerLoad - Create Patient Request with  Request Body send
+[INFO ] 2024-02-27 18:23:03.593 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 18:23:06.086 [main] LoggerLoad - Create Patient Request with  Request Body send
+[INFO ] 2024-02-27 18:23:44.330 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 18:23:45.716 [main] LoggerLoad - Content-Type application/json is not valid when using multiparts, it must start with "multipart/" or contain "multipart+".
+[INFO ] 2024-02-27 18:26:48.147 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 18:26:49.669 [main] LoggerLoad - Content-Type application/json is not valid when using multiparts, it must start with "multipart/" or contain "multipart+".
+[INFO ] 2024-02-27 18:28:04.681 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 18:28:06.032 [main] LoggerLoad - Content-Type application/json is not valid when using multiparts, it must start with "multipart/" or contain "multipart+".
+[INFO ] 2024-02-27 19:01:01.809 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 19:01:04.396 [main] LoggerLoad - Content-Type application/json is not valid when using multiparts, it must start with "multipart/" or contain "multipart+".
+[INFO ] 2024-02-27 19:06:33.555 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 19:06:35.114 [main] LoggerLoad - Content-Type application/json is not valid when using multiparts, it must start with "multipart/" or contain "multipart+".
+[INFO ] 2024-02-27 19:20:11.085 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 19:20:12.600 [main] LoggerLoad - Content-Type application/json is not valid when using multiparts, it must start with "multipart/" or contain "multipart+".
+[INFO ] 2024-02-27 19:22:33.207 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 19:22:34.452 [main] LoggerLoad - Content-Type application/json is not valid when using multiparts, it must start with "multipart/" or contain "multipart+".
+[INFO ] 2024-02-27 19:24:28.034 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 19:24:29.237 [main] LoggerLoad - Content-Type application/json is not valid when using multiparts, it must start with "multipart/" or contain "multipart+".
+[INFO ] 2024-02-27 19:27:24.936 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 19:27:26.137 [main] LoggerLoad - Content-Type application/json is not valid when using multiparts, it must start with "multipart/" or contain "multipart+".
+[INFO ] 2024-02-27 19:28:28.771 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 19:28:29.909 [main] LoggerLoad - Content-Type application/json is not valid when using multiparts, it must start with "multipart/" or contain "multipart+".
+[INFO ] 2024-02-27 19:32:50.284 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 19:32:51.820 [main] LoggerLoad - Content-Type application/json is not valid when using multiparts, it must start with "multipart/" or contain "multipart+".
+[INFO ] 2024-02-27 19:34:40.160 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 19:34:42.712 [main] LoggerLoad - Create Patient Request with  Request Body send
+[INFO ] 2024-02-27 19:39:01.409 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 19:39:02.650 [main] LoggerLoad - Content-Type application/json is not valid when using multiparts, it must start with "multipart/" or contain "multipart+".
+[INFO ] 2024-02-27 19:39:53.764 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 19:39:54.956 [main] LoggerLoad - Content-Type application/json is not valid when using multiparts, it must start with "multipart/" or contain "multipart+".
+[INFO ] 2024-02-27 19:41:20.275 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 19:41:21.434 [main] LoggerLoad - Content-Type application/json is not valid when using multiparts, it must start with "multipart/" or contain "multipart+".
+[INFO ] 2024-02-27 19:45:31.879 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 19:45:34.008 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 19:48:36.426 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 19:48:38.937 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 19:50:01.883 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 19:50:03.328 [main] LoggerLoad - Content-Type application/json is not valid when using multiparts, it must start with "multipart/" or contain "multipart+".
+[INFO ] 2024-02-27 19:53:20.122 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 19:53:22.231 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 19:54:06.108 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 19:54:08.126 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 19:55:50.204 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 19:55:51.360 [main] LoggerLoad - Content-Type application/json is not valid when using multiparts, it must start with "multipart/" or contain "multipart+".
+[INFO ] 2024-02-27 19:56:20.899 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 19:56:22.895 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 19:57:09.241 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 19:57:11.144 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 19:58:39.825 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 19:58:42.088 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 20:03:06.981 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 20:03:09.499 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 20:06:13.483 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 20:06:15.936 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 20:09:56.554 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 20:09:58.526 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 20:10:49.976 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 20:10:51.930 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 20:15:40.845 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 20:15:43.151 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 20:21:46.623 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 20:21:48.916 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 20:23:16.806 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 20:23:19.214 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 20:26:06.146 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 20:26:07.434 [main] LoggerLoad - Content-Type application/json is not valid when using multiparts, it must start with "multipart/" or contain "multipart+".
+[INFO ] 2024-02-27 20:26:29.448 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 20:26:31.491 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 21:03:42.894 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 21:03:44.230 [main] LoggerLoad - Content-Type application/json is not valid when using multiparts, it must start with "multipart/" or contain "multipart+".
+[INFO ] 2024-02-27 21:08:53.255 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 21:08:54.458 [main] LoggerLoad - Content-Type application/json is not valid when using multiparts, it must start with "multipart/" or contain "multipart+".
+[INFO ] 2024-02-27 21:17:18.745 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 21:17:21.327 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 21:18:54.674 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 21:18:56.975 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 21:19:57.543 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 21:19:59.739 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 21:20:30.196 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 21:20:32.610 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 21:22:00.774 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 21:22:02.013 [main] LoggerLoad - Content-Type application/json is not valid when using multiparts, it must start with "multipart/" or contain "multipart+".
+[INFO ] 2024-02-27 21:22:55.698 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 21:22:57.866 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 21:25:00.572 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 21:25:02.740 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 21:25:24.712 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 21:25:26.906 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 21:27:25.717 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 21:27:27.854 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 21:29:27.383 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 21:29:29.719 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 21:38:38.894 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 21:38:42.366 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 21:39:28.355 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 21:39:31.195 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 21:40:56.946 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 21:40:59.021 [main] LoggerLoad - MIME type may not contain reserved characters
+[INFO ] 2024-02-27 21:43:30.287 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 21:43:31.619 [main] LoggerLoad - MIME type may not contain reserved characters
+[INFO ] 2024-02-27 21:45:54.909 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 21:45:56.181 [main] LoggerLoad - MIME type may not contain reserved characters
+[INFO ] 2024-02-27 21:46:34.475 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 21:46:36.667 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 21:51:04.461 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 21:51:06.779 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 21:52:03.418 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 21:52:05.566 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 21:57:58.104 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 21:58:00.500 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 21:58:37.474 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 21:58:39.821 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 21:59:35.100 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 21:59:37.457 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 22:01:26.977 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 22:01:28.220 [main] LoggerLoad - You can either send form parameters OR body content in POST, not both!
+[INFO ] 2024-02-27 22:01:56.279 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 22:01:58.559 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 22:04:12.455 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 22:04:14.551 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 22:07:40.994 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 22:07:43.251 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 22:07:58.411 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 22:08:00.428 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 22:09:55.366 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 22:09:58.412 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 22:15:39.814 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 22:15:42.357 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 22:18:28.318 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 22:18:30.498 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 22:20:55.192 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 22:20:57.559 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 22:25:05.998 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 22:25:08.114 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 22:26:52.516 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 22:26:54.738 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-27 22:27:32.828 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-27 22:27:35.064 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-28 09:09:29.069 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-28 09:09:30.093 [main] LoggerLoad - Cannot invoke "io.restassured.response.Response.asString()" because "this.response" is null
+[INFO ] 2024-02-28 09:10:28.966 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-28 09:10:29.732 [main] LoggerLoad - Cannot invoke "io.restassured.response.Response.asString()" because "this.response" is null
+[INFO ] 2024-02-28 09:11:10.136 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-28 09:11:55.474 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-28 09:11:57.860 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-28 09:11:58.471 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-28 09:12:42.329 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-28 09:12:44.522 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-28 09:12:45.099 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-28 09:15:58.326 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-28 09:16:00.598 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-28 09:16:01.256 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-28 09:17:04.127 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-28 09:17:06.322 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-28 09:17:06.997 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-28 09:18:59.515 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-28 09:19:01.619 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-28 09:19:02.402 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-28 10:06:50.652 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-28 10:06:53.026 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-28 10:06:53.801 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-28 10:11:53.398 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-28 10:11:56.246 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-28 10:11:56.883 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-28 11:03:31.047 [main] LoggerLoad - Create User With Basic Auth
+[INFO ] 2024-02-28 11:03:35.805 [main] LoggerLoad - Create user Request with  Request Body send
+[INFO ] 2024-02-28 11:03:36.478 [main] LoggerLoad - Create user Request with  Request Body send
