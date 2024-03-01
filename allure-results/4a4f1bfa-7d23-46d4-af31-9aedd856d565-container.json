@@ -1,0 +1,1 @@
+{"uuid":"4a4f1bfa-7d23-46d4-af31-9aedd856d565","name":"Scenario Outline: Check if user able to retrieve user by userId","children":["db5a54d8-a5f0-47fb-8787-9536cc491f55"],"befores":[],"afters":[],"start":1709255707336,"stop":1709255709578}

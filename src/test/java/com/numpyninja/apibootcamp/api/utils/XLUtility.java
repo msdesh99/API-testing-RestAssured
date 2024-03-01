@@ -62,13 +62,16 @@ public class XLUtility {
      
 		for(int i=0;i<columnCnt;i++) {
 			cell = sheet.getRow(rowNumber).getCell(i);
-			String cellData = null; 
+			String cellData = ""; 
 			if (cell != null) {
 				if(cell.getCellType() == CellType.NUMERIC) {
 					cell.setCellType(CellType.STRING);
 				}
+				
+				//cellData = cell.getStringCellValue().isEmpty()?"":cell.getStringCellValue();
 				cellData = cell.getStringCellValue();
 			}
+			//System.out.println("value: "+sheet.getRow(0).getCell(i).getStringCellValue()+" : "+ cellData);
 			dataMap.put(sheet.getRow(0).getCell(i).getStringCellValue(), cellData);
 		}
 		return dataMap;
